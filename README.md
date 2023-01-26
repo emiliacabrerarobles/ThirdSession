@@ -6,3 +6,4 @@ some print examples
 - a 
 - list 
 - for the homework 
+- emilia 
